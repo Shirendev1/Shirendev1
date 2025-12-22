@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I’m Enkhtsetseg 👋
 
-<!--
-**Shirendev1/Shirendev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Future thinking • Social impact • Open ideas for a better world**
 
-Here are some ideas to get you started:
+I am an ordinary Mongolian woman living between Mongolia and the Czech Republic,  
+with a deep love for my homeland, humanity, and the future of our shared world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 What I care about
+- Human-centered development  
+- Sustainability & social responsibility  
+- Open thinking and shared knowledge  
+- Bridging ideas between Europe and Mongolia  
+
+## 💡 What you’ll find here
+- Ideas and concept notes  
+- Project outlines and future visions  
+- Experiments with tools, thinking, and collaboration  
+- Open repositories — not perfection, but intention
+
+## 🤝 Let’s connect
+- 🌐 Website: https://enkhtsetsegshiren.dev  
+- 💼 LinkedIn: https://www.linkedin.com/in/enkhtsetseg-shirendev-807b98367/
+
+> *The future is not something we wait for.  
+> It is something we think about, care for, and build together.*
