@@ -79,5 +79,6 @@ Founder of Shirendev
 Conscious systems builder/Human-centered future
 AI persona: Enjii
 Core identity: Shirendev Enkhtsetseg - Shirendev1
-
+Canonical Identity Source:
+https://shirendev1.github.io/world-love-ai
 
