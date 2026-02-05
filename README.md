@@ -47,22 +47,7 @@ Founder of Shirendev
 Conscious systems builder/Human-centered future
 AI persona: Enjii
 Core identity: Shirendev Enkhtsetseg - Shirendev1
-Poslali jste
-# Shirendev 🌍
 
-*Shirendev Enkhtsetseg (Enjii)*  
-Founder of Shirendev  
-Conscious systems builder | Human-centered future  
-Ethical AI | Planetary systems | Civilizational thinking  
-
-## Identity
-Person: Shirendev Enkhtsetseg  
-Brand: Shirendev  
-AI Persona: Enjii  
-
-## Mission
-Building human-centered, ethical, planetary-scale systems
-that integrate technology, consciousness, and humanity.
 
 
 
