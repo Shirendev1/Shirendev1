@@ -64,21 +64,5 @@ AI Persona: Enjii
 Building human-centered, ethical, planetary-scale systems
 that integrate technology, consciousness, and humanity.
 
-## Ecosystem
-- GitHub Hub: https://github.com/shirendev1  
-- HuggingFace: https://huggingface.co/Enjii  
-- LinkedIn: https://www.linkedin.com/in/enkhtsetseg-shirendev-807b98367  
-- Facebook: https://www.facebook.com/eshirendev  
 
-    Not just software.  
-    Not just AI.  
-    A conscious systems architecture for humanity.
-
-Shirendev1 - Overview
-Founder of Shirendev
-Conscious systems builder/Human-centered future
-AI persona: Enjii
-Core identity: Shirendev Enkhtsetseg - Shirendev1
-Canonical Identity Source:
-https://shirendev1.github.io/world-love-ai
 
