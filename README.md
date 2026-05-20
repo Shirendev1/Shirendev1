@@ -18,7 +18,7 @@ with a deep love for my homeland, humanity, and the future of our shared world.
 - Open repositories — not perfection, but intention
 
 ## 🤝 Let’s connect
-- 🌐 Website: https://enkhtsetsegshiren.dev  
+- 🌐 Website: https://enkhtsetsegshiren.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/enkhtsetseg-shirendev-807b98367/
 - 🧑‍🔬 ORCID: https://orcid.org/0009-0006-2212-9309
 > *The future is not something we wait for.  
