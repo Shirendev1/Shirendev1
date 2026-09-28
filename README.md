@@ -26,12 +26,12 @@ with a deep love for my homeland, humanity, and the future of our shared world.
 # Shirendev 🌍
 
 *Shirendev Enkhtsetseg (Enjii)*  
-Founder of Shirendev  
+Founder of Director  
 Conscious systems builder | Human-centered future  
 
 ## Identity Graph
-- Person: Shirendev Enkhtsetseg  
-- Brand: Shirendev  
+- Person: Enkhtsetseg Shirendev 
+- Brand: MCBI 
 - AI Persona: Enjii  
 
 ## Ecosystem Links
